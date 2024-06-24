@@ -9,3 +9,13 @@ U
 %src/main/java/wrapper/HttpClient.java,2\5\2597248f366963aafd8d34dd929da769a0109897
 Q
 !src/main/java/dto/GetUserDto.java,b\6\b68f77ad8fbb2f9a4b7146abf43a20be411e838b
+`
+0src/main/java/wrapper/HttpClientWrapperImpl.java,e\c\ec7c8bcb1f274380448c846e16dde051e7a6da63
+^
+.src/main/java/util/HttpClientResponseUtil.java,b\e\bebfe6b026b32c854cf6ade40fa2f8a394651032
+b
+2src/main/java/util/HttpClientResponseUtilImpl.java,0\7\0717b9a6c3154a3c4e8dafd78dc091c900ad4d6d
+T
+$src/main/java/util/CastResponse.java,6\7\67e1649ed9bf586161e1a625fa61bdc313159077
+X
+(src/main/java/util/CastResponseImpl.java,f\3\f3f725e552f1163c5d1a82d8016b2f20a409132a
