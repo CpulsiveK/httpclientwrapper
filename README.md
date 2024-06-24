@@ -33,8 +33,6 @@ Here are some examples of how to use the HttpClientWrapper library:
 #### configuration
 ```java
 
-     package com.cpulsivek.uploadservice.config;
-
     import com.fasterxml.jackson.databind.ObjectMapper;
     import java.net.URI;
     import java.net.URLDecoder;
