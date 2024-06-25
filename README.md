@@ -16,11 +16,26 @@ The HttpClientWrapper library provides a set of interfaces and classes to simpli
 
 - Java 8 or higher
 - Spring Boot 2.0 or higher
+- Maven
 
 ### Installation
 
 1. Add the HttpClientWrapper library to your project's dependencies.
 2. Import the necessary classes and interfaces from the `wrapper` and `util` packages.
+
+`NB` Since the library hasn't yet been hosted on Maven central you would have to install it to your local maven repository before doing the above steps. Here is how to go about it
+1. Clone the repository to your local machine
+   ```bash
+
+   git clone https://github.com/CpulsiveK/httpclientwrapper.git
+
+   ```
+2. Enter the command below in your terminal and run it to install the library on your local maven repository
+   ```bash
+   
+   mvn clean install
+
+   ```
 
 ### Usage
 1. Add a config class to your project to configure the Client to your prefered choice.
