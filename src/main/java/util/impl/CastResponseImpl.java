@@ -1,6 +1,8 @@
-package util;
+package util.impl;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import util.CastResponse;
+
 import java.util.LinkedHashMap;
 
 /**
